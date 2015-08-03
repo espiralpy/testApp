@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_datas">
+        <item>Java</item>
+        <item>Objective-C</item>
+        <item>C++</item>
+        <item>PHP</item>
+        <item>(Visual) Basic</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Perl</item>
+        <item>JavaScript</item>
+        <item>Delphi/Object Pascal</item>
+        <item>Visual Basic .NET</item>
+        <item>Assembly</item>
+    </string-array>
+</resources>
